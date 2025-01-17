@@ -57,45 +57,93 @@ This directory contains Python scripts for weekly programming tasks.
 - **Description**: Contains Python scripts for Week 1 programming tasks.
 - **Files**:
   - `1.py`: Script for the first task.
+    - **Purpose**: To demonstrate basic Python syntax and operations.
+    - **How to run**: `python 1.py`
   - `2.py`: Script for the second task.
+    - **Purpose**: To practice control flow statements.
+    - **How to run**: `python 2.py`
   - `3.py`: Script for the third task.
+    - **Purpose**: To work with functions and modules.
+    - **How to run**: `python 3.py`
   - `4.py`: Script for the fourth task.
+    - **Purpose**: To handle file operations.
+    - **How to run**: `python 4.py`
   - `5.py`: Script for the fifth task.
+    - **Purpose**: To implement error handling.
+    - **How to run**: `python 5.py`
 
 #### Program_02/
 - **Description**: Contains Python scripts for Week 2 programming tasks.
 - **Files**:
   - `1.py`: Script for the first task.
+    - **Purpose**: To work with lists and dictionaries.
+    - **How to run**: `python 1.py`
   - `2.py`: Script for the second task.
+    - **Purpose**: To practice list comprehensions.
+    - **How to run**: `python 2.py`
   - `3.py`: Script for the third task.
+    - **Purpose**: To understand tuple operations.
+    - **How to run**: `python 3.py`
   - `4.py`: Script for the fourth task.
+    - **Purpose**: To explore set operations.
+    - **How to run**: `python 4.py`
 
 #### Program_06/
 - **Description**: Contains Python scripts for Week 6 programming tasks.
 - **Files**:
   - `1.py`: Script for the first task.
+    - **Purpose**: To work with classes and objects.
+    - **How to run**: `python 1.py`
   - `2.py`: Script for the second task.
+    - **Purpose**: To implement inheritance.
+    - **How to run**: `python 2.py`
   - `3.py`: Script for the third task.
+    - **Purpose**: To practice polymorphism.
+    - **How to run**: `python 3.py`
   - `4.py`: Script for the fourth task.
+    - **Purpose**: To understand encapsulation.
+    - **How to run**: `python 4.py`
   - `5.py`: Script for the fifth task.
+    - **Purpose**: To work with abstract classes.
+    - **How to run**: `python 5.py`
   - `6.py`: Script for the sixth task.
+    - **Purpose**: To explore interfaces.
+    - **How to run**: `python 6.py`
 
 #### Program_07/
 - **Description**: Contains Python scripts for Week 7 programming tasks.
 - **Files**:
   - `1.py`: Script for the first task.
+    - **Purpose**: To work with file I/O operations.
+    - **How to run**: `python 1.py`
   - `2.py`: Script for the second task.
+    - **Purpose**: To practice exception handling.
+    - **How to run**: `python 2.py`
   - `3.py`: Script for the third task.
+    - **Purpose**: To implement custom exceptions.
+    - **How to run**: `python 3.py`
   - `4.py`: Script for the fourth task.
+    - **Purpose**: To understand logging.
+    - **How to run**: `python 4.py`
 
 #### Program_08/
 - **Description**: Contains Python scripts for Week 8 programming tasks.
 - **Files**:
   - `1.py`: Script for the first task.
+    - **Purpose**: To work with regular expressions.
+    - **How to run**: `python 1.py`
   - `2.py`: Script for the second task.
+    - **Purpose**: To practice web scraping.
+    - **How to run**: `python 2.py`
   - `3.py`: Script for the third task.
+    - **Purpose**: To understand API interactions.
+    - **How to run**: `python 3.py`
   - `4.py`: Script for the fourth task.
+    - **Purpose**: To explore database operations.
+    - **How to run**: `python 4.py`
   - `5.py`: Script for the fifth task.
+    - **Purpose**: To implement multithreading.
+    - **How to run**: `python 5.py`
   - `misspelled.txt`: Text file for testing purposes.
   - `text.txt`: Text file for testing purposes.
   - `text2.txt`: Text file for testing purposes.
